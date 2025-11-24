@@ -1,0 +1,6 @@
+# Archivos de entorno y secretos
+.env
+
+# Entornos virtuales
+entorno/
+*.venv/
